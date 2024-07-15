@@ -43,6 +43,11 @@ I'm a communication and electronics graduate who is passionate about Embedded So
 3. [MPU6050 simulation](https://github.com/abdosn/MPU6050-Simulation)
 4. [AM signal modulation and de-modualtion](https://github.com/abdosn/AM-signal-Modulation-Demodulation)
 
+### [MATLAB projects](https://github.com/stars/abdosn/lists/matlab)
+
+1. [OFDM modulation](https://github.com/abdosn/OFDM-Modulation)
+2. [Morse code encoder & decoder](https://github.com/abdosn/Morse-Code-Encoder-Decoder)
+
 ### [Study Notes](https://github.com/stars/abdosn/lists/notes)
 
 1. [Data structures](https://github.com/abdosn/Data-structures-notes)
