@@ -33,6 +33,27 @@ I'm a communication and electronics graduate who is passionate about Embedded So
 
   
 <br/>
+
+## My Repos
+
+### [LABView projects](https://github.com/stars/abdosn/lists/labview)
+
+1. [Function generator](https://github.com/abdosn/Function-Generator)
+2. [Resistor measurement](https://github.com/abdosn/Resistor-Measurement)
+3. [MPU6050 simulation](https://github.com/abdosn/MPU6050-Simulation)
+4. [AM signal modulation and de-modualtion](https://github.com/abdosn/AM-signal-Modulation-Demodulation)
+
+### [Study Notes](https://github.com/stars/abdosn/lists/notes)
+
+1. [Data structures](https://github.com/abdosn/Data-structures-notes)
+2. [cpp](https://github.com/abdosn/Modern-Cpp)
+3. [RTOS](https://github.com/abdosn/RTOS-notes)
+4. [Testing](https://github.com/abdosn/Testing-notes)
+5. [Doxygen](https://github.com/abdosn/doxygen-notes)
+6. [QEMU](https://github.com/abdosn/QEMU-notes)
+7. [QT](https://github.com/abdosn/qtbook)
+
+
 <!--
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
