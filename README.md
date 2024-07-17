@@ -53,10 +53,11 @@ I'm a communication and electronics graduate who is passionate about Embedded So
 1. [Data structures](https://github.com/abdosn/Data-structures-notes)
 2. [cpp](https://github.com/abdosn/Modern-Cpp)
 3. [RTOS](https://github.com/abdosn/RTOS-notes)
-4. [Testing](https://github.com/abdosn/Testing-notes)
-5. [Doxygen](https://github.com/abdosn/doxygen-notes)
-6. [QEMU](https://github.com/abdosn/QEMU-notes)
-7. [QT](https://github.com/abdosn/qtbook)
+4. [Bash script](https://github.com/abdosn/bash-script-notes)
+5. [Testing](https://github.com/abdosn/Testing-notes)
+6. [Doxygen](https://github.com/abdosn/doxygen-notes)
+7. [QEMU](https://github.com/abdosn/QEMU-notes)
+8. [QT](https://github.com/abdosn/qtbook)
 
 
 <!--
