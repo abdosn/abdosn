@@ -3,15 +3,8 @@
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-### 👨🏻‍💻 About Me
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdelrahmansobhynassar) [abdonassar283@gmail.com]()
 
-I'm a communication and electronics graduate who is passionate about Embedded Software and signal processing.
-
-- 🎓 &nbsp; Graduated From : Faculty of Enineering (Electronics and Communication department) - Al Azhar Unversity.
-- Grade : Very good.
-- 💼 &nbsp; Working as an Embedded System Engineer at Impulses.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware and signal proccessing. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdelrahmansobhynassar) [abdonassar283@gmail.com]()
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
@@ -35,6 +28,7 @@ I'm a communication and electronics graduate who is passionate about Embedded So
 <br/>
 
 ## My Repos
+### [Embedded projects]()
 
 ### [LABView projects](https://github.com/stars/abdosn/lists/labview)
 
